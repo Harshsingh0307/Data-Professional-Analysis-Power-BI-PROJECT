@@ -1,0 +1,1 @@
+This project leverages Power BI to visualize and analyze complex datasets, transforming raw data into insightful and interactive dashboards. The visualizations enable data-driven decision-making by providing clear and actionable insights.
